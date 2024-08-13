@@ -26,7 +26,16 @@
 
 ### git pull --> sincronizar os repositórios e realizar o download das alterações no repositório local
 
+### git stash--> manda um commit/arquivo para o stash (stash é como se fosse uma gaveta onde voce esconde um arquivo)
 
+### git stash apply stash{0} --> serve para levar do stash para o local, o 0 é o numero do commit, o stash é uma pilha ou seja o 0 é a posição na pilha, o stash funciona como uma pilha, ou seja o primeiro a ir para o stash é o numero 0
+### git stash list --> vai fazer uma lista dos commits do stasb que voce tem
+
+### git fetch --> repositorio remoto para repositorio local
+
+### git merge --> repositorio local para local
+
+### git restore --staged --> stage para local
 
 <p><img src="img/i.jpeg" alt=""></p>
 
