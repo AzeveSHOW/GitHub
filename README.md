@@ -37,5 +37,11 @@
 
 ### git restore --staged --> stage para local
 
+### git -a v1.0 -m "Versão 1.0" --> Cria uma tag para marcar o proximo commit
+
+### git checkout -b nome_Da_branch --> para criar uma branch (branch é como se fosse uma ramifiação, para que mais de 1 pessoa possa mexer no mesmo projeto ao mesmo tempo, sem que tenha conflitos, por isto voce cria uma branch da main.)
+
+### git checkout nome_da_branch --> mudar de branch
+
 <p><img src="img/i.jpeg" alt=""></p>
 
